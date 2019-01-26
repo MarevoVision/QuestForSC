@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>schedule</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="schedule" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(18.000000, 18.000000)" fill="#446389" id="Shape">
+            <path d="M110,0 C49.5,0 0,49.5 0,110 C0,170.5 49.5,220 110,220 C170.5,220 220,170.5 220,110 C220,49.5 170.5,0 110,0 L110,0 Z M110,198 C61.6,198 22,158.4 22,110 C22,61.6 61.6,22 110,22 C158.4,22 198,61.6 198,110 C198,158.4 158.4,198 110,198 L110,198 Z"></path>
+            <polygon points="115.5 55 99 55 99 121 156.2 156.2 165 141.9 115.5 112.2"></polygon>
+        </g>
+    </g>
+</svg>

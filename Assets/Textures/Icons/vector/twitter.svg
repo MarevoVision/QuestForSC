@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="twitter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="post-twitter" transform="translate(18.000000, 18.000000)" fill="#446389">
+            <path d="M198,0 L22,0 C9.9,0 0,9.9 0,22 L0,198 C0,210.1 9.9,220 22,220 L198,220 C210.1,220 220,210.1 220,198 L220,22 C220,9.9 210.1,0 198,0 L198,0 Z M172.7,80.3 C171.6,130.9 139.7,166.1 91.3,168.3 C71.5,169.4 57.2,162.8 44,155.1 C58.3,157.3 77,151.8 86.9,143 C72.6,141.9 63.8,134.2 59.4,122.1 C63.8,123.2 68.2,122.1 71.5,122.1 C58.3,117.7 49.5,110 48.4,92.4 C51.7,94.6 56.1,95.7 60.5,95.7 C50.6,90.2 44,69.3 51.7,56.1 C66,71.5 83.6,84.7 112.2,86.9 C104.5,56.1 146.3,39.6 162.8,60.5 C170.5,59.4 176,56.1 181.5,53.9 C179.3,61.6 174.9,66 169.4,70.4 C174.9,69.3 180.4,68.2 184.8,66 C183.7,71.5 178.2,75.9 172.7,80.3 L172.7,80.3 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

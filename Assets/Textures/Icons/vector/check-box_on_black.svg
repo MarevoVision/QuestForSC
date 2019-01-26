@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>check-box_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="check-box_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-box-outline-copy" transform="translate(18.000000, 18.000000)" fill="#FFFFFF">
+            <path d="M59.8888889,86.7777778 L42.7777778,103.888889 L97.7777778,158.888889 L220,36.6666667 L202.888889,19.5555556 L97.7777778,124.666667 L59.8888889,86.7777778 L59.8888889,86.7777778 Z M195.555556,195.555556 L24.4444444,195.555556 L24.4444444,24.4444444 L146.666667,24.4444444 L146.666667,0 L24.4444444,0 C11,0 0,11 0,24.4444444 L0,195.555556 C0,209 11,220 24.4444444,220 L195.555556,220 C209,220 220,209 220,195.555556 L220,97.7777778 L195.555556,97.7777778 L195.555556,195.555556 L195.555556,195.555556 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>reload_hover_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="reload_hover_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="loop-copy-2" transform="translate(38.000000, 4.000000)" fill="#87909D">
+            <path d="M90,33.8181818 L90,0 L45,45.0909091 L90,90.1818182 L90,56.3636364 C127.125,56.3636364 157.5,86.8 157.5,124 C157.5,135.272727 154.125,146.545455 149.625,155.563636 L166.5,172.472727 C174.375,157.818182 180,142.036364 180,124 C180,74.4 139.5,33.8181818 90,33.8181818 L90,33.8181818 Z M90,191.636364 C52.875,191.636364 22.5,161.2 22.5,124 C22.5,112.727273 25.875,101.454545 30.375,92.4363636 L13.5,75.5272727 C5.625,90.1818182 0,105.963636 0,124 C0,173.6 40.5,214.181818 90,214.181818 L90,248 L135,202.909091 L90,157.818182 L90,191.636364 L90,191.636364 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

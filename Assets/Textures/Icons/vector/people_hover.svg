@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>people_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="people_hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="people-copy" transform="translate(18.000000, 58.000000)" fill="#0F223B">
+            <path d="M150,60 C167,60 180,47 180,30 C180,13 167,0 150,0 C133,0 120,13 120,30 C120,47 133,60 150,60 L150,60 Z M70,60 C87,60 100,47 100,30 C100,13 87,0 70,0 C53,0 40,13 40,30 C40,47 53,60 70,60 L70,60 Z M70,80 C47,80 0,92 0,115 L0,140 L140,140 L140,115 C140,92 93,80 70,80 L70,80 Z M150,80 C147,80 144,80 140,81 C152,89 160,101 160,115 L160,140 L220,140 L220,115 C220,92 173,80 150,80 L150,80 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

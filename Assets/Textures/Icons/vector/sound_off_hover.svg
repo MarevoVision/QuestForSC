@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>sound_off_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="sound_off_hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="notifications-off-copy-3" transform="translate(23.000000, 12.000000)" fill="#0F223B">
+            <path d="M99.1666667,233 C112,233 122.5,222.515 122.5,209.7 L75.8333333,209.7 C75.8333333,222.515 86.3333333,233 99.1666667,233 L99.1666667,233 Z M175,99.025 C175,62.91 150.5,33.785 116.666667,25.63 L116.666667,17.475 C116.666667,8.155 108.5,0 99.1666667,0 C89.8333333,0 81.6666667,8.155 81.6666667,17.475 L81.6666667,25.63 C75.8333333,26.795 70,29.125 65.3333333,31.455 L175,140.965 L175,99.025 L175,99.025 Z M171.5,198.05 L194.833333,221.35 L210,206.205 L15.1666667,11.65 L0,26.795 L33.8333333,60.58 C26.8333333,72.23 23.3333333,85.045 23.3333333,99.025 L23.3333333,163.1 L0,186.4 L0,198.05 L171.5,198.05 L171.5,198.05 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

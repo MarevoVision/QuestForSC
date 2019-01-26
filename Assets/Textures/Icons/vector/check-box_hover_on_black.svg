@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>check-box_hover_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="check-box_hover_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-box-copy" transform="translate(18.000000, 18.000000)" fill="#FFFFFF">
+            <path d="M195.555556,0 L24.4444444,0 C11,0 0,11 0,24.4444444 L0,195.555556 C0,209 11,220 24.4444444,220 L195.555556,220 C209,220 220,209 220,195.555556 L220,24.4444444 C220,11 209,0 195.555556,0 L195.555556,0 Z M85.5555556,171.111111 L24.4444444,110 L41.5555556,92.8888889 L85.5555556,136.888889 L178.444444,44 L195.555556,61.1111111 L85.5555556,171.111111 L85.5555556,171.111111 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

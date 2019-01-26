@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>camera_2_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="camera_2_hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="camera-copy-2" transform="translate(18.000000, 18.000000)" fill="#0F223B">
+            <path d="M81.4,93.5 L134.2,2.2 C126.5,1.1 117.7,0 110,0 C83.6,0 59.4,8.8 40.7,25.3 L81.4,94.6 L81.4,93.5 L81.4,93.5 Z M214.5,77 C204.6,45.1 180.4,18.7 148.5,7.7 L108.9,77 L214.5,77 L214.5,77 Z M217.8,88 L135.3,88 L138.6,93.5 L191.4,184.8 C209,165 220,138.6 220,110 C220,102.3 218.9,94.6 217.8,88 L217.8,88 Z M71.5,110 L28.6,35.2 C11,55 0,81.4 0,110 C0,117.7 1.1,125.4 2.2,132 L84.7,132 L71.5,110 L71.5,110 Z M5.5,143 C15.4,174.9 39.6,201.3 71.5,212.3 L112.2,143 L5.5,143 L5.5,143 Z M128.7,143 L85.8,217.8 C93.5,220 101.2,220 110,220 C136.4,220 160.6,211.2 179.3,194.7 L138.6,125.4 L128.7,143 L128.7,143 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>cancel_hover_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="cancel_hover_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M128,18 C67.5,18 18,67.5 18,128 C18,188.5 67.5,238 128,238 C188.5,238 238,188.5 238,128 C238,67.5 188.5,18 128,18 L128,18 Z M183,167.6 L167.6,183 L128,143.4 L88.4,183 L73,167.6 L112.6,128 L73,88.4 L88.4,73 L128,112.6 L167.6,73 L183,88.4 L143.4,128 L183,167.6 L183,167.6 Z" id="Shape-Copy-2" fill="#87909D"></path>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>shopping-cart_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="shopping-cart_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopping-cart-copy" transform="translate(18.000000, 18.000000)" fill="#FFFFFF">
+            <path d="M66,176 C53.9,176 44,185.9 44,198 C44,210.1 53.9,220 66,220 C78.1,220 88,210.1 88,198 C88,185.9 78.1,176 66,176 L66,176 Z M0,0 L0,22 L22,22 L61.6,105.6 L46.2,132 C45.1,135.3 44,139.7 44,143 C44,155.1 53.9,165 66,165 L198,165 L198,143 L70.4,143 C69.3,143 68.2,141.9 68.2,140.8 L68.2,139.7 L78.1,121 L159.5,121 C168.3,121 174.9,116.6 178.2,110 L217.8,38.5 C220,36.3 220,35.2 220,33 C220,26.4 215.6,22 209,22 L46.2,22 L36.3,0 L0,0 L0,0 Z M176,176 C163.9,176 154,185.9 154,198 C154,210.1 163.9,220 176,220 C188.1,220 198,210.1 198,198 C198,185.9 188.1,176 176,176 L176,176 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>camera_hover_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="camera_hover_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="camera-alt-copy-3" transform="translate(18.000000, 29.000000)" fill="#87909D">
+            <circle id="Oval" cx="110" cy="110" r="35.75"></circle>
+            <path d="M77,0 L57.2,22 L22,22 C9.9,22 0,31.9 0,44 L0,176 C0,188.1 9.9,198 22,198 L198,198 C210.1,198 220,188.1 220,176 L220,44 C220,31.9 210.1,22 198,22 L162.8,22 L143,0 L77,0 L77,0 Z M110,165 C79.2,165 55,140.8 55,110 C55,79.2 79.2,55 110,55 C140.8,55 165,79.2 165,110 C165,140.8 140.8,165 110,165 L110,165 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

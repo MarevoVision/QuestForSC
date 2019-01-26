@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>download_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="download_hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="keyboard-tab-copy" transform="translate(128.000000, 128.000000) rotate(90.000000) translate(-128.000000, -128.000000) translate(28.000000, 71.000000)" fill="#0F223B">
+            <path d="M100.952381,13.3 L135.238095,47.5 L0,47.5 L0,66.5 L135.238095,66.5 L100.952381,100.7 L114.285714,114 L171.428571,57 L114.285714,0 L100.952381,13.3 L100.952381,13.3 Z M180.952381,0 L180.952381,114 L200,114 L200,0 L180.952381,0 L180.952381,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

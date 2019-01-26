@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>linkedin_on_black</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="linkedin_on_black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="post-linkedin-copy" transform="translate(18.000000, 18.000000)" fill="#FFFFFF">
+            <path d="M198,0 L22,0 C9.9,0 0,9.9 0,22 L0,198 C0,210.1 9.9,220 22,220 L198,220 C210.1,220 220,210.1 220,198 L220,22 C220,9.9 210.1,0 198,0 L198,0 Z M66,187 L33,187 L33,88 L66,88 L66,187 L66,187 Z M49.5,69.3 C38.5,69.3 29.7,60.5 29.7,49.5 C29.7,38.5 38.5,29.7 49.5,29.7 C60.5,29.7 69.3,38.5 69.3,49.5 C69.3,60.5 60.5,69.3 49.5,69.3 L49.5,69.3 Z M187,187 L154,187 L154,128.7 C154,119.9 146.3,112.2 137.5,112.2 C128.7,112.2 121,119.9 121,128.7 L121,187 L88,187 L88,88 L121,88 L121,101.2 C126.5,92.4 138.6,85.8 148.5,85.8 C169.4,85.8 187,103.4 187,124.3 L187,187 L187,187 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>instagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="instagram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="post-instagram" transform="translate(18.000000, 18.000000)" fill="#446389">
+            <path d="M198,0 L22,0 C9.9,0 0,9.9 0,22 L0,198 C0,210.1 9.9,220 22,220 L198,220 C210.1,220 220,210.1 220,198 L220,22 C220,9.9 210.1,0 198,0 L198,0 Z M110,66 C134.2,66 154,85.8 154,110 C154,134.2 134.2,154 110,154 C85.8,154 66,134.2 66,110 C66,85.8 85.8,66 110,66 L110,66 Z M27.5,198 C24.2,198 22,195.8 22,192.5 L22,99 L45.1,99 C44,102.3 44,106.7 44,110 C44,146.3 73.7,176 110,176 C146.3,176 176,146.3 176,110 C176,106.7 176,102.3 174.9,99 L198,99 L198,192.5 C198,195.8 195.8,198 192.5,198 L27.5,198 L27.5,198 Z M198,49.5 C198,52.8 195.8,55 192.5,55 L170.5,55 C167.2,55 165,52.8 165,49.5 L165,27.5 C165,24.2 167.2,22 170.5,22 L192.5,22 C195.8,22 198,24.2 198,27.5 L198,49.5 L198,49.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
