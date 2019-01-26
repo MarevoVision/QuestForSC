@@ -1,5 +1,5 @@
 # QuestForSC
-![QuestForSC icon](https://github.com/MarevoVision/QuestForSC/blob/master/QuestForSC-icon_github.png?raw=true)
+![QuestForSC icon](https://github.com/MarevoVision/QuestForSC/blob/master/QuestForSC-icon-github.png?raw=true)
 
 Quest for shopping center (Chest, Light).
 
